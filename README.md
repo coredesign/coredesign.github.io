@@ -1,1 +1,2 @@
-# coredesign.github.io
+# Core Design
+GitHub page
